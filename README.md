@@ -18,8 +18,7 @@
 </p>
 
 #### _Download links_
-- [jMusic](https://github.com/Nikhil-Gupta-ind/jCloud/blob/master/jMusic/jMusic%20(early%20access).apk) - Simply Music!
-
+- [jMusic](https://github.com/Nikhil-Gupta-ind/jCloud/blob/master/jMusic/jMusic%201.0.apk) - _"Forget about hate or hatered & just play your favorite!"_
 Don't worry these apps are safe and ready to install.
 To download simply get the apks inside the folders above.
 Or follow the steps :-
