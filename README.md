@@ -5,9 +5,7 @@
 > A place where I share my early accesss Android Apps.
 
 #### _Download links_
-```sh
 - [jMusic.apk](https://github.com/Nikhil-Gupta-ind/jCloud/raw/master/jMusic/jMusic%201.0.apk) - _lite and simple music player!_
-```
 
 ### Co-WINNER
 <p align="center">
