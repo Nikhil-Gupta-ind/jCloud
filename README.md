@@ -25,7 +25,7 @@
 
 ### To Do App
 <p align="center">
-  <img src="https://github.com/Nikhil-Gupta-ind/jCloud/blob/master/ToDo%20App/screenshot_1.png" width="250" title="To Do">
-  <img src="https://github.com/Nikhil-Gupta-ind/jCloud/blob/master/ToDo%20App/screenshot_2.png" width="250" title="Task">
-  <img src="https://github.com/Nikhil-Gupta-ind/jCloud/blob/master/ToDo%20App/screenshot_3.png" width="250" title="Add Tasks" alt="Add Tasks">
+  <img src="https://github.com/Nikhil-Gupta-ind/jCloud/blob/master/ToDo%20App/Screenshot_1.png" width="250" title="To Do">
+  <img src="https://github.com/Nikhil-Gupta-ind/jCloud/blob/master/ToDo%20App/Screenshot_2.png" width="250" title="Task">
+  <img src="https://github.com/Nikhil-Gupta-ind/jCloud/blob/master/ToDo%20App/Screenshot_3.png" width="250" title="Add Tasks" alt="Add Tasks">
 </p>
