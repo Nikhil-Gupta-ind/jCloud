@@ -2,7 +2,7 @@
 
 > Welcome to jcloud,
 > my personal app store on github.
-> A place where I share my early accesss Android Apps.
+> A place where I share my Android Apps.
 
 #### _Download links_
 - [Co-WINNER.apk](https://github.com/Nikhil-Gupta-ind/jCloud/raw/master/Co-WINNER/Co-WINNER%201.5.0.apk) - _A vaccine service app_
